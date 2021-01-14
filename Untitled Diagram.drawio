@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T20:13:13.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="oLKor8_b6B-xTZ4qziGB" version="14.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-14T20:59:31.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="HbNJK63myxW-vZt8eSQf" version="14.1.4" type="github" pages="3">
   <diagram id="_4hKqY-cZXE7VdDxUb8r" name="当前拓扑">
     <mxGraphModel dx="1944" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -572,6 +572,9 @@
         </mxCell>
         <mxCell id="icBPtCqj_-ARPiOi5oWv-51" value="&lt;font face=&quot;verdana&quot;&gt;WAN3&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Verdana;fontColor=#232F3E;shadow=1;" vertex="1" parent="icBPtCqj_-ARPiOi5oWv-1">
           <mxGeometry x="-630" y="940" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="icBPtCqj_-ARPiOi5oWv-54" value="&lt;font face=&quot;verdana&quot;&gt;WAN2&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Verdana;fontColor=#232F3E;shadow=1;" vertex="1" parent="icBPtCqj_-ARPiOi5oWv-1">
+          <mxGeometry x="-320" y="1030.5" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
