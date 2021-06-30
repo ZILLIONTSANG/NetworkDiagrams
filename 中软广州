@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T18:32:44.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 HBPC/11.0.5.300" etag="YK3GOTG6GIJ85Yr_LZwk" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T18:33:07.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 HBPC/11.0.5.300" etag="db7dGDNJhpdlPeBDYAg4" version="14.7.7" type="github">
   <diagram id="RPHwq9IzX9SZgQVa-A0V" name="Page-1">
     <mxGraphModel dx="1867" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="4UalJE7NEYN_OxF3Eh1j-11" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_128x128.png" vertex="1" parent="1">
           <mxGeometry x="855" y="327" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4UalJE7NEYN_OxF3Eh1j-12" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
-          <mxGeometry x="250" y="190" width="55.800000000000004" height="39.6" as="geometry" />
         </mxCell>
         <mxCell id="4UalJE7NEYN_OxF3Eh1j-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UalJE7NEYN_OxF3Eh1j-13" target="4UalJE7NEYN_OxF3Eh1j-14">
           <mxGeometry relative="1" as="geometry" />
