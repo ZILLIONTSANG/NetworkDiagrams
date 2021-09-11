@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T09:02:22.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 HBPC/11.0.6.301" etag="TBQNId0elLhvZK_wPUr_" version="14.8.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-11T21:30:36.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 HBPC/11.0.6.301" etag="KVXkZkQlZJtuxMr2ACJV" version="14.8.4" type="github" pages="4">
   <diagram name="网络现状" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1684" dy="1180" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -564,7 +564,7 @@
         <mxCell id="iY7noQJS1ZDwRuHYu1KB-37" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="iY7noQJS1ZDwRuHYu1KB-1">
           <mxGeometry x="620" y="255" width="28.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iY7noQJS1ZDwRuHYu1KB-42" value="&lt;b style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 24px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;联通加速骨干网络&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="iY7noQJS1ZDwRuHYu1KB-1">
+        <mxCell id="iY7noQJS1ZDwRuHYu1KB-42" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 24px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;云网络加速骨干网&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="iY7noQJS1ZDwRuHYu1KB-1">
           <mxGeometry x="419.46" y="250" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hRftzCpCRRHdgoSlBjOP-0" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontColor=#000066;strokeColor=#000066;" vertex="1" parent="iY7noQJS1ZDwRuHYu1KB-1">
@@ -635,7 +635,7 @@
         <mxCell id="hRftzCpCRRHdgoSlBjOP-22" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="iY7noQJS1ZDwRuHYu1KB-1">
           <mxGeometry x="648.75" y="704" width="28.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hRftzCpCRRHdgoSlBjOP-23" value="&lt;b style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 24px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;联通加速骨干网络&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="iY7noQJS1ZDwRuHYu1KB-1">
+        <mxCell id="hRftzCpCRRHdgoSlBjOP-23" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 24px ; text-align: center&quot;&gt;云网络加速骨干网&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="iY7noQJS1ZDwRuHYu1KB-1">
           <mxGeometry x="447.92" y="700" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
